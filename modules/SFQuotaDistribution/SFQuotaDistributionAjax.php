@@ -1,0 +1,12 @@
+<?php
+if($_REQUEST['M']=='1')
+{
+	include_once('Ajax/Module1.php');
+}elseif($_REQUEST['M']=='2')
+{
+	include_once('Ajax/Module2.php');
+}elseif($_REQUEST['M']=='3')
+{
+	include_once('Ajax/Module2.php');
+}
+?>

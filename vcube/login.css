@@ -1,0 +1,20 @@
+/* CSS Document */
+html, body {
+	margin:0px;
+	padding:0px;
+	background:#333333;
+	color:#FFFFFF;
+	}
+div#login_vcube {
+	background:url(login.png) no-repeat;
+	width:732px;
+	height:426;	
+	}
+form {
+	width:300px;
+	float:right;
+	margin-top:145px;	
+	}
+.small {
+	color:#FFF!important;	
+	}

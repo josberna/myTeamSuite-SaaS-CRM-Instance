@@ -1,0 +1,135 @@
+/*********************************************************************************
+** The contents of this file are subject to the vtiger CRM Public License Version 1.0
+* ("License"); You may not use this file except in compliance with the License
+* The Original Code is:  vtiger CRM Open Source
+* The Initial Developer of the Original Code is vtiger.
+* Portions created by vtiger are Copyright (C) vtiger.
+* All Rights Reserved.
+********************************************************************************/
+
+body {
+	font-family: Arial, Helvetica, san-serif;
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #0000FF;
+}
+
+.loginContainer {
+    width: 100%;
+	height: 100%;
+}
+
+.loginWrapper {
+	padding: 10px;
+	background: #FFF;
+}
+
+.loginForm, .importantLinks {
+	width:400px;
+}
+
+.loginForm {
+    padding: 65px;
+}
+
+.importantLinks {
+	text-align: center;
+	padding: 30px;
+	padding-top: 10px;
+	font-size: 0.8em;
+}
+
+.loginForm {
+
+}
+
+.loginForm {
+
+}
+
+.loginForm .poweredBy {
+	width: 100%;
+	font-size: 0.8em;
+	text-align: right;
+	padding-bottom: 1.5em;
+	color: #2d3642;
+}
+
+.loginForm .label {
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: right;
+    width: 160px;
+}
+
+.loginForm .input input {
+    color: #3D698E;
+    font-size: 13px;
+    padding: 3px 0;
+    width: 160px;
+}
+
+.loginForm .input input:focus {
+	border: 2px solid #3D698E;
+}
+
+.loginForm .button #submitButton {
+    background-color: #3D698E;
+    border: 2px outset #3D698E;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 2px 0;
+    text-align: center;
+    width: 160px;
+}
+
+.importantLinks, .communityLinks {
+	font-size: 0.8em;
+}
+
+.errorMessage {
+    background: url("alert.png") no-repeat scroll 8px center #000000;
+    border-radius: 4px 4px 4px 4px;
+    -moz-border-radius: 4px 4px 4px 4px;
+    -khtml-border-radius: 4px 4px 4px 4px;
+    -webkit-border-radius: 4px 4px 4px 4px;
+    -o-border-radius: 4px 4px 4px 4px;
+    *-border-radius: 4px 4px 4px 4px;
+    color: #FF7700;
+    font-size: 12px;
+    opacity: 0.8;
+    padding: 5px 0 5px 24px;
+    width: 285px;
+}
+.poweredBy {
+	display:none;
+	}
+.communityLinks {
+	display:none;
+	}
+.importantLinks {
+	display:none;
+	}
+
+div.login-box{
+    background: url("login-bg.png") no-repeat scroll left top transparent;
+    height: 423px;
+    margin: 60px auto 0;
+    padding: 50px 0 0;
+    width: 637px;
+}
+
+table.login{
+
+}
+
