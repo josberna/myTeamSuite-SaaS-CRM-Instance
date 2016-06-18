@@ -1,6 +1,0 @@
-<img src="cache/images/hor_0__01330974539.png" border="0" usemap="#cache/images/hor_0__01330974539.png">
-<map name="cache/images/hor_0__01330974539.png">
-	<area shape="rect" coords="92,52,129,74" href="index.php?module=Products&action=index&from_dashboard=true&search_text=Blade+Servers&search_field=productcategory&searchtype=BasicSearch&query=true&type=entchar&operator=e&viewname=24" alt="Blade Servers=%d" title="Blade Servers=%d">
-	<area shape="rect" coords="92,131,176,152" href="index.php?module=Products&action=index&from_dashboard=true&search_text=Thin+Client+Workstations&search_field=productcategory&searchtype=BasicSearch&query=true&type=entchar&operator=e&viewname=24" alt="Thin Client Workstations=%d" title="Thin Client Workstations=%d">
-	<area shape="rect" coords="92,209,251,231" href="index.php?module=Products&action=index&from_dashboard=true&search_text=Desktop&search_field=productcategory&searchtype=BasicSearch&query=true&type=entchar&operator=e&viewname=24" alt="Desktop=%d" title="Desktop=%d">
-</map>
